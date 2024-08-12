@@ -5,3 +5,6 @@ Nesse repositório fiz um exercício da faculdade de ADS, onde a atividade envol
 <img src="imagem-atividade.png" alt="Minha Imagem" width="300">
 
 <hr>
+
+<img src="imagem-codigo.png" alt="Minha Imagem" width="400">
+
