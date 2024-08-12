@@ -6,5 +6,5 @@ Nesse repositório fiz um exercício da faculdade de ADS, onde a atividade envol
 
 <hr>
 
-<img src="imagem-codigo.png" alt="Minha Imagem" width="400">
+<img src="Imagem-codigo.png" alt="Minha Imagem" width="400">
 
