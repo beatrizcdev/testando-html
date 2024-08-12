@@ -1,4 +1,4 @@
-# Testando HTML
+# Testando HTML 🚀
 
 Nesse repositório fiz um exercício da faculdade de ADS, onde a atividade envolve criar um código simples em HTML baseado nas direções do professor:
 
@@ -6,5 +6,7 @@ Nesse repositório fiz um exercício da faculdade de ADS, onde a atividade envol
 
 <hr>
 
-<img src="Imagem-codigo.png" alt="Minha Imagem" width="400">
+Fiz o código utilizando do VS Code 💻
+
+<img src="Imagem-codigo.png" alt="Minha Imagem" width="800">
 
