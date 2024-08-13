@@ -9,5 +9,3 @@ Nesse repositório fiz um exercício da faculdade de ADS, onde a atividade envol
 Fiz o código utilizando do VS Code 💻
 
 <img src="Imagem-codigo.png" alt="Minha Imagem" width="800">
-
-teste
